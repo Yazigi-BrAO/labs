@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Signature</title>
+    <style>
+        /* Adicione seu CSS aqui */
+    </style>
+</head>
+<body>
+    <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td>
+                <div class="shape1"></div>
+            </td>
+            <td>
+                <div class="shape2"></div>
+            </td>
+            <!-- Adicione mais colunas conforme necessário -->
+        </tr>
+        <tr>
+            <td colspan="2">
+                <div class="text">Seu texto formatado aqui</div>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
