@@ -9,7 +9,7 @@
     </style>
 </head>
 <body>
-    <table cellpadding="0" cellspacing="0" border="0">
+    <table cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
         <tr>
             <td>
                 <div class="shape1"></div>
